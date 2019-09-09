@@ -10,11 +10,11 @@ b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 2. Buatlah program dari class diagram yang sudah anda buat di no 1!
 
 `Contoh program kasir dimana di dlamnya terdapat instansiasi Scanner "a.next..... yang berguna untuk setiap program yang belum di tampilkan user harus memasukanya dulu supaya dapat di tampilkan(flexsible)`
-![Hasil Program Pembayaran](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/2_Class_dan_Object/KASIR.PNG)
+![Hasil Program Pembayaran](KASIR.PNG)
 
 3. Program Hitung Jari-Jari linkaran
 `Contoh hasil hitung jari jari Lingkaran dengan contoh jika kita masukan 2 maka = 5 x 15 x 2 x 2 = 300 `
-![Contoh Gambarnya]((https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/2_Class_dan_Object/LINGKARAN.PNG)
+![Contoh Gambarnya](LINGKARAN.PNG)
 
 4. Buatlah program sesuai dengan class diagram berikut ini:Deskripsi
 
