@@ -11,9 +11,9 @@ Seperti pembahasan Procedural Programming, Object Oriented Programming, objek, c
 
 (berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`'![](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/sepedaBalap.PNG)
+`Contoh ScreenShot`![](sepedaBalap.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/src/1_Pengantar_Konsep_PBO/sepedaBalap.java)
+Contoh link kode program : [ini contoh link ke kode program](src\1_Pengantar_Konsep_PBO/sepedaBalap.java)
 
 ### Percobaan 2
 
@@ -21,9 +21,9 @@ Contoh link kode program : [ini contoh link ke kode program](https://github.com/
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/sepedaSport.PNG)
+![contoh screenshot](sepedaSport.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/src/1_Pengantar_Konsep_PBO/sepedaSport.java)
+Contoh link kode program : [ini contoh link ke kode program](src\1_Pengantar_Konsep_PBO/sepedaSport.java)
 
 ## Pertanyaan
 
@@ -38,17 +38,17 @@ sepeda spx = new sepeda();
 sepeda spk = new sepeda();
 sepedaBalap spt = new sepedaBalap();
 7. Saya dapat pertanyaan, kan saya punya nenek, nenek saya punya buyut! nah cucunya nenek pingin ngerti buyutnya buyut gimana caranya ?
-kalau dikehidupan nyata kan pasti gc mungkin :)![contoh screenshot](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/contoh-schot1.PNG)
+kalau dikehidupan nyata kan pasti gc mungkin :)![contoh screenshot](contoh-schot1.PNG)
 
-## Tugas
+# Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/sepeda.PNG)
+![contoh screenshot](sepeda.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/src/1_Pengantar_Konsep_PBO/sepeda.java)
+Contoh link kode program : [ini contoh link ke kode program](src\1_Pengantar_Konsep_PBO/sepeda.java)
 
 ## Kesimpulan
 
