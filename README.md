@@ -1,4 +1,6 @@
-## Dosen Pengajar
+# Petunjuk Laporan Praktikum Pemrograman Berorientasi Objek
+|  |  |
+|--|--|
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/habibieeddien) |
 | Tahun Ajaran | Ganjil 2019/2020 |
 | Email | habibie@polinema.ac.id |
@@ -6,22 +8,26 @@
 
 ## Data Diri
 
-| NIM           : 1942823007
-| Nama Lengkap  : Agus Salim Hadjrianto
-| Kelas         : TI-2C
+|  |  |
+|--|--|
+| NIM | 1941723007 |
+| Nama Lengkap | AGUS SALIM HADJRIANTO |
+| Kelas | TI-2C |
 
 
 ## Komponen Penilaian Laporan Praktikum
 
 1. Orisinalitas (35%)
-2. Kreativitas/inovasi (20%)
-3. Ketepatan mengumpulkan tugas (20%)
-4. Kesesuaian dengan aturan/instruksi (15%)
-5. Kerapian penulisan kode program (10%)
+2. Kreativitas/inovasi (15%)
+3. Ketepatan mengumpulkan tugas (15%)
+4. Ketepatan menjawab soal dan penyelesaian kode program (10%)
+5. Kesesuaian dengan aturan/instruksi (15%)
+6. Kerapian penulisan laporan dan kode program (10%)
 
 ## Struktur Folder
 
-| Praktikum |Projek satu |
+| Nama Folder | Keterangan |
+|--|--|
 | *docs* | Berisi dokumentasi laporan praktikum dengan format *markdown* (.md). Dokumen berisi jawaban dari soal tiap praktikum dan screenshot hasil kompilasi program. |
 | *src* | Berisi kode sumber (*source code*) pada tiap pertemuan praktikum. |
 
@@ -38,4 +44,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(Agus Salim Hadjrianto)***
+***(AGUS SALIM HADJRIANTO)***
