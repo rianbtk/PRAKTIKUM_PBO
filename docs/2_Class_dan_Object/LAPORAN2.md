@@ -3,14 +3,14 @@
 # PERCOBAAN
 1. Percobaan satu : Membuat class Mahasiswa dan class Kelas Disini saya menggunakan instansisasi dari dua kelas dimana supaya dapat mecetak hasil secara langsung di output saya tambhakan Scanner supaya user mudah memasukan nilai sesui keinginanya tanpa harus bingun merubah Code
 `contoh kelas Mahasiswa` ![Mahasiswa](mahasiswa.PNG)
-Contoh link kode program satu : [ini contoh link ke kode program](src\2_Class_dan_Object\Mahasiswa.java)
-Contoh link kode program dua : [ini contoh link ke kode program](src\2_Class_dan_Object\Kelas.java)
+Contoh link kode program satu : [ini contoh link ke kode program](\src\2_Class_dan_Object\Mahasiswa.java)
+Contoh link kode program dua : [ini contoh link ke kode program](\src\2_Class_dan_Object\Kelas.java)
 2. Percobaan Dua : Membuat Class Barang dan TestBarang sama seperti di atas instansiasi juga perlu untuk menghubungkan object dan Class .
 Dalam percobaan ini sama seperti di atas saya tambahkan Scanner untuk mempermudah user dalam memasukan objek sesuai keinginanya
 `Contoh kelas Barang` ![Barang](BARANG.PNG)
 `contoh kelas Mahasiswa` ![Mahasiswa](mahasiswa.PNG)
-Contoh link kode program satu : [ini contoh link ke kode program](src\2_Class_dan_Object\Barang.java)
-Contoh link kode program dua : [ini contoh link ke kode program](src\2_Class_dan_Object\TestBarang.java)
+Contoh link kode program satu : [ini contoh link ke kode program](D:\Polinema\Kampus\BTK\Semester 3\PBO\Tugas\laporan-praktikum-pbo-master\\src\2_Class_dan_Object\Barang.java)
+Contoh link kode program dua : [ini contoh link ke kode program](\src\2_Class_dan_Object\TestBarang.java)
 # TUGAS
 1. Suatu toko persewaan video game salah satu yang diolah adalah peminjaman, dimana
 data yang dicatat ketika ada orang yang melakukan peminjaman adalah id, nama 
@@ -24,17 +24,19 @@ b. Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 `Contoh program kasir dimana di dlamnya terdapat instansiasi Scanner "a.next..... yang berguna untuk setiap program yang belum di tampilkan user harus memasukanya dulu supaya dapat di tampilkan(flexsible)`
 ![Hasil Program Pembayaran](KASIR.PNG)
 `contoh kelas Mahasiswa` ![Mahasiswa](mahasiswa.PNG)
-Contoh link kode program satu : [ini contoh link ke kode program](src\2_Class_dan_Object\Kasir.java)
+Contoh link kode program satu : [ini contoh link ke kode program](\src\2_Class_dan_Object\Kasir.java)
 
 3. Program Hitung Jari-Jari linkaran
 `Contoh hasil hitung jari jari Lingkaran dengan contoh jika kita masukan 2 maka = 5 x 15 x 2 x 2 = 300 `
 ![Contoh Gambarnya](LINGKARAN.PNG)
 `contoh kelas Mahasiswa` ![Mahasiswa](mahasiswa.PNG)
-Contoh link kode program satu : [ini contoh link ke kode program](src\2_Class_dan_Object\Lingkaran.java)
-
+Contoh link kode program satu : [ini contoh link ke kode program](\src\2_Class_dan_Object\Lingkaran.java)
+[]                                                   []
 4. Program Pembayaran Dengan Diskon 
 Pada program ini terdapat objek dan class seperti class Barang dan TestBarang dimana di dalamnya terdapat objek Barang meliputi kodeBarang, namaBarang, dan harga.
-`Berikut Contoh Programnya` ![Contoh Program Diskon](BARANG.PNG)
+`Berikut Contoh Programnya` ![Contoh Program Diskon](DISKON.PNG)
+
+#
 
 ## Pernyataan Diri
 
