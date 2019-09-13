@@ -27,7 +27,7 @@ Contoh Public dia bisa di akses oleh  class lainya,Private dia hanya bisa di aks
 ### Percobaan 1
 
 Percobaan satu : Disini terdapat hasil gandjil karena pada public bolean dikatan false dan di program kurang di tambahkan argument yang menyatakan bahwa speed on harus 100 sehingga output yang keluar terpaku pada claas dua yang menyatakan total Speednya.
-`PERCOBAAN SATU` ![](img/pERCOBAAN1.PNG)
+`PERCOBAAN SATU` ![](img/Percobaan1.PNG)
  link kode program: [Program Satu](../../src/3_Enkapsulasi/MotorBalap.java)
  link kode program: [Program Dua](../../src/3_Enkapsulasi/Motor1200CC.java) 
 
