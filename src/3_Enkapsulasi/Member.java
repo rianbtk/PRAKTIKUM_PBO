@@ -13,7 +13,8 @@ public class Member {
     private String nama;
     private int id;
     private float angsuran;
-    private float pinjaman;  
+    private float pinjaman;
+    private float meminjam;
     Member (String nama, int pinjaman){
         this.nama=nama;
         this.pinjaman=pinjaman;
@@ -25,7 +26,7 @@ public class Member {
         this.angsuran=angsuran;
     }
     public void setPinjaman(float pinjaman){
-    this.pinjaman=10000000;
+    this.pinjaman=pinjaman;
     }
     public String getNama(){
         return nama;
@@ -37,9 +38,15 @@ public class Member {
         return pinjaman;
     }
     public void angsur (float uang){
-        pinjaman +=uang;
+        pinjaman -=uang;
     }
     public void pinjam (float uang){
+        pinjaman +=uang;
+    }
+    public void limit (float uang){
         pinjaman -=uang;
+    }
+    public void meminjam (float uang){
+        meminjam -=uang;
     }
 }
