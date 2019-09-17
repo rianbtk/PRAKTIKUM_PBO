@@ -82,8 +82,8 @@ Percobaan 4 : Dalam percobaan empat disini kita mencoba membuat program koperasi
 
 4. Program Pinjaman Dan Angsuran
 Agus salim pinjam uang 10 juta dengan limit pinjaman 5 juta = pinjam 4 juta lalu mengangsur 1 juta lalu angsur lagi 3 juta = 4Juta-1Juta = 3Juta | 3Juta-3Juta=0 Jadi sekarang Agus Tidak punya Hutang
-![Program](img/soal4.PNG)
 ![Program](img/soal4.1.PNG)
+![Program](img/soal4.11.PNG)
  link kode program: [Program Satu](../../src/3_Enkapsulasi/Member.java)
  link kode program: [Program Dua](../../src/3_Enkapsulasi/BankTitil.java)
 
