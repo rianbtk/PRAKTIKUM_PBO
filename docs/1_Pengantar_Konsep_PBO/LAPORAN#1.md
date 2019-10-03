@@ -1,4 +1,4 @@
-# Laporan Praktikum #1 - Pengantar Konsep PBO
+# Laporan Praktikum 1 - Pengantar Konsep PBO
 
 ## Ringkasan dan Pembahasan Materi
 
