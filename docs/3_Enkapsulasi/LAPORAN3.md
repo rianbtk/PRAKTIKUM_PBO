@@ -1,4 +1,4 @@
-# Laporan Praktikum 3 - Pengantar Konsep PBO
+# Laporan Praktikum 3 - Enkapsulasi
 
 ## Kompetensi
 
@@ -12,15 +12,21 @@ Setelah melakukan percobaan pada modul ini, mahasiswa memahami konsep:
 6. Memahami notasi pada UML Class Diagram
 
 ## Ringkasan Materi
-* Ringkasan Materi pada modul tiga dijalaskan bahwa : 
-* Encaptulation adalah Proser pengkapsulan di mana kita tahu bahwa contoh . Kita Mengetik di Laptop kita tahunya ada interface yang keluar di layar tapi kita tidak tahu proses apa yang di lalui sehingga ada interface di layar.
-Pada intinya Encaptulation Adalah menyembunyikan sebuauh proses agar proses user cukup tau interface nya tanpa tau proses rumitnya.
-* Konstruktor ialah Kontruksi dari sebuah program dimana konstruktor dapat memudahkan programing dalam mendesain sebuah program karena telah terkontruksi, konstruktor mempunyai method dan proses namun tidak mempunyai output karena fungsinya hanya menata sebuah program agar tidak semrawut.
-Contoh : Kita Desain Sepedah motor kita tau sepdah motor buth fairing butuh kerangka dan butuh mesin
-tapi kita dan hasilnya sepdah terlihat bagus tapi kalau sudah terlihat bagus apakah bisa berjalan ? kan tidak masih butuh banyak lagi untuk sampai bisa digunakan.
 
-* Modifield Modifiel digunakan untuk menentukan relasi antar klas atau private class.
-Contoh Public dia bisa di akses oleh  class lainya,Private dia hanya bisa di akses oleh satu class,default hanya dapat diakses di dalam package yang sama,protected hanya dapat diakases di luar package menggunakan subclass Seprti kita membuat inheritance
+    Ringkasan Materi pada modul tiga dijalaskan bahwa : 
+    Encaptulation adalah Proses Encapsulation di mana kita tahu bahwa contoh :
+    - Kita Mengetik di Laptop kita tahunya ada interface yang keluar di layar tapi kita tidak tahu proses apa yang di lalui sehingga ada interface di layar.
+
+    Konstruktor ialah Kontruksi dari sebuah program dimana konstruktor dapat memudahkan programing dalam mendesain sebuah program karena telah terkontruksi
+    - Contoh : Kita Desain Sepedah motor kita tau sepdah motor buth fairing butuh kerangka dan butuh mesin tapi kita dan hasilnya sepdah terlihat bagus tapi kalau sudah terlihat bagus apakah bisa berjalan ? kan tidak masih butuh banyak lagi untuk sampai bisa digunakan.
+
+    Modifield digunakan untuk menentukan relasi antar klas atau private class.
+    - Contoh Public dia bisa di akses oleh  class lainya
+
+    Private bisa di akses oleh satu class dan bisa juga clas lain dengan instansiasi,
+    default hanya dapat diakses di dalam package yang sama
+
+    protected dapat diakases di luar package menggunakan subclass
 
 ## Percobaan
 
@@ -59,15 +65,16 @@ Percobaan 4 : Dalam percobaan empat disini kita mencoba membuat program koperasi
 4. Apa yand dimaksud konstruktor?
 * Jawab : Konstruktor adalah tahapan perancangan dimana ada method ada class ada system tetap belum sampai tahap output rincinya.
 5. Sebutkan aturan dalam membuat konstruktor?
-* Jawab : Aturan dalam membuat konstruktor ialah system yang sistematik dimana harus ada relasi dan keterkaitan antar class dan method yang di gunakan.
+* Jawab : konstructor digunakan untuk menyiapkan data untuk class. aturanya dengan menambah parameter pada variabel
 6. Apakah boleh konstruktor bertipe private?
 * Jawab : Boleh Karena dalam konstruksi variable class tergantung kebutuhan user saat ingin menggunakan tipe private,public dll, intinya sesuai kebutuhanya.
 7. Kapan menggunakan parameter dengan passsing parameter?
-* Jawab : Parameter di gunakan untuk menentukan atau menghitung hasil dari suatu variabel dengangkan passing parameter di gunakan untuk mengirim fungsi dari sebuah method namun passing parameter tidak akan mempengaruhi dari niali awal parameter
+* Jawab : saat instansiasi object. Class a = new Class();
+a.Atribut / a.Method
 8. Apa perbedaan atribut class dan instansiasi atribut?
-* Jawab : Atribut Class adalah rincian dari method contoh Class laptop atributnya keyboard,lcd,MotherBoard sedangkan kalau instansiasi atribut di gunakan untuk mengeluarkan output dari atribut class, supaya kita tidak mengetik ulang atribut yang sudah ada.
+* Jawab : Bedanya kalau atribut itu atribut kalau instansiasi atribut itu pemanngilan atribut dengan instansiasi a.Atribut
 9. Apa perbedaan class method dan instansiasi method?
-* Jawab : Method adalah cara atau methode sedangkan instansiasi method adalah penggabungan dua cara atau dua methode 
+* Jawab : method getHasi() kalau instansiasi method a.getHasil()
 
 ## Tugas
 
