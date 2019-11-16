@@ -9,6 +9,21 @@
     d. Menerapkan polimorfisme pada parameter/argument method
     e. Menerapkan object casting untuk meng-ubah bentuk objek
 
+# Ringkasan Materi
+Polimorfisme merupakan kemampuan suatu objek untuk memiliki banyak 
+bentuk. Penggunaan polimorfisme yang paling umum dalam OOP terjadi 
+ketika ada referensi super class yang digunakan untuk merujuk ke objek dari 
+sub class. Dengan kata lain, ketika ada suatu objek yang dideklarasikan dari 
+super class, maka objek tersebut bisa diinstansiasi sebagai objek dari sub 
+class. Dari uraian tersebut bisa dilihat bahwa konsep polimorfisme bisa 
+diterapkan pada class-class yang memiliki relasi inheritance.
+Adapun ilustrasi dri Philimorfisme sebagai berikut :
+    1. Virtual method Invocation
+    2. Heterogeneous Collection
+    3. Polymorphic Argument
+    4. Operator instanceof
+    5. Object Casting
+
 # Percobaan 1 – Bentuk dasar polimorfisme
 ![](img/Tester_1.png)
 
